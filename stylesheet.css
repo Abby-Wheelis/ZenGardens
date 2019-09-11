@@ -1,0 +1,24 @@
+body
+{
+    background-image: url(https://storage.needpix.com/rsynced_images/flower-arrangement-1.jpg);
+}
+p
+{
+    background-color:#CADBAE; color:#1E3815; border-radius: 20px; padding: 10px; border-style: solid; border-color: #1E3815; max-width: 50em;
+}
+h1
+{
+    color:#1E3815; font-family:monospace; font-size: 5em; background-color: #D65A50; border-radius: 10px; border-style: solid; border-color: #1E3815; border-width: 5px; padding: 15px; max-width: 15em;
+}
+h2
+{
+    color: #1E3815; font-family:monospace; font-size: 2em; background-color: #B0CCCF; border-radius: 10px; border-style: solid; border-color: #1E3815; border-width: 2px; padding: 15px; max-width: 25em; 
+}
+a
+{
+    color:#1E3815; font-family:monospace; 
+}
+a:hover
+{
+    color:#D65A50
+}
